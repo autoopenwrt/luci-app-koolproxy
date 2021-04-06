@@ -1,6 +1,6 @@
 include $(TOPDIR)/rules.mk
 
-PKG_NAME:=xqxwjj-kp-no-Ad
+PKG_NAME:=luci-app-koolproxy
 PKG_VERSION:=2021.4.5
 PKG_RELEASE:=4
 
